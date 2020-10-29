@@ -3,23 +3,23 @@ Race State created and resolved
 
 #Wat is multithreading?
 
-**Multithreading is de mogelijk van een systeem of programma om meerdere threads the gebruiken**
+**Multithreading is de mogelijk van een systeem of programma om meerdere threads the gebruiken.**
 
 *bron: http://www.ming-automatisering.nl/Definities/definitiesm.htm*
 
 #Wanneer gebruik je meerdere threads?
 
-**als een programma of systeem meerdere dingen tegelijk moet doen**
+**als een programma of systeem meerdere dingen tegelijk moet doen.**
 
 *bron: https://nl.wikipedia.org/wiki/Thread_(informatica)*
 
 #Wat zijn drie veel voorkomende problemen bij mutithreaded applications? Waardoor ontstaan ze?
 
-**Race conditie wanneer meerdere threads tegelijk een stuk geheugen willen aanpassen**
+**Race conditie wanneer meerdere threads tegelijk een stuk geheugen willen aanpassen.**
 
-**Deadlock = wanneer meerdere threads op andere wachten inclusief de actieve thread dus de threads zitten vast in een cirkel van wachten** 
+**Deadlock = wanneer meerdere threads op andere wachten inclusief de actieve thread dus de threads zitten vast in een cirkel van wachten.** 
 
-**Clobbering = wanneer meerdere threads geheugen van elkaar overschrijven**
+**Clobbering = wanneer meerdere threads geheugen van elkaar overschrijven.**
 
 *bron: https://en.wikipedia.org/wiki/Clobbering*
 
