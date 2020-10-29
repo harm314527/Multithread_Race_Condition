@@ -3,7 +3,7 @@ Race State created and resolved
 
 #Wat is multithreading?
 
-**Multithreading is de mogelijk van een systeem of programma om meerdere threads the gebruiken.**
+**Multithreading is de mogelijkheid van een systeem of programma om meerdere threads the gebruiken.**
 
 *bron: http://www.ming-automatisering.nl/Definities/definitiesm.htm*
 
