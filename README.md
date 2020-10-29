@@ -15,11 +15,11 @@ Race State created and resolved
 
 #Wat zijn drie veel voorkomende problemen bij mutithreaded applications? Waardoor ontstaan ze?
 
-**Race conditie wanneer meerdere threads tegelijk een stuk geheugen willen aanpassen.**
+**Race conditie = Wanneer meerdere threads tegelijk een stuk geheugen willen aanpassen.**
 
-**Deadlock = wanneer meerdere threads op andere wachten inclusief de actieve thread dus de threads zitten vast in een cirkel van wachten.** 
+**Deadlock = Wanneer meerdere threads op andere wachten inclusief de actieve thread dus de threads zitten vast in een cirkel van wachten.** 
 
-**Clobbering = wanneer meerdere threads geheugen van elkaar overschrijven.**
+**Clobbering = Wanneer meerdere threads geheugen van elkaar overschrijven.**
 
 *bron: https://en.wikipedia.org/wiki/Clobbering*
 
