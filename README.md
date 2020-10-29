@@ -28,7 +28,7 @@ Race State created and resolved
 **Volgens mij worden de objecten gemaakt in threads nog steeds in de algehele HEAP opgeslagen.**
 
 #Hoe wordt het onderdeel genoemd waar methoden worden uitgevoerd en primitive types in het geheugen worden geplaatst?
-**Methoden en primitieve types worden in de Stack geplaats.**
+**Methoden en primitieve types worden in de Stack geplaatst.**
 
 #Hoe is dit verschillend in een multithreaded application?
 **alle methoden die in een thread worden aangeroepen worden bovenop de Stack frames gezet.**
