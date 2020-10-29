@@ -17,7 +17,9 @@ Race State created and resolved
 **Clobbering = wanneer meerdere threads geheugen van elkaar overschrijven**
 
 *bron: https://en.wikipedia.org/wiki/Clobbering*
+
 *bron: https://en.wikipedia.org/wiki/Deadlock*
+
 *bron: https://en.wikipedia.org/wiki/Race_condition*
 
 
@@ -32,6 +34,7 @@ Race State created and resolved
 
 #Hoe is dit verschillend in een multithreaded application?
 **alle methoden die in een thread worden aangeroepen worden bovenop de Stack frames gezet.**
+
 *bron: https://blog.usejournal.com/java-multithreading-part-1-ec0c42bbead6*
 
 
