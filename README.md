@@ -51,5 +51,5 @@ Race State created and resolved
 
 #Wat is in dit kader een racing condition? Hoe zou je dit kunnen voorkomen?
 
-**Racing conditie is een staat waarin meerdere threads tegelijk een stuk geheugen willen aanpassen en dan is het aan het systeem om te bepalen in welke volgorde de threads bij dat stuk geheugen kan waardoor het vaak zo is dat de uitkomst van die multithreaded operatie steeds verschillend is. .
+**Racing conditie is een staat waarin meerdere threads tegelijk een stuk geheugen willen aanpassen en dan is het aan het systeem om te bepalen in welke volgorde de threads bij dat stuk geheugen kunnen waardoor het vaak zo is dat de uitkomst van die multithreaded operatie steeds verschillend is.
 Dit kan je voorkomen door LOCK te gebruiken dat wil zeggen dat het geheugen wordt afgesloten zodra een thread bezig is zodat de andere threads er niet bij kunnen.**
