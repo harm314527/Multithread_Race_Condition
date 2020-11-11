@@ -36,15 +36,17 @@ Race State created and resolved
 
 **Volgens mij worden de objecten gemaakt in threads nog steeds in de algehele HEAP opgeslagen.**
 
+*bron: https://www.cs.ru.nl/E.Poll/talks/p3_threads.pdf*
+
 #Hoe wordt het onderdeel genoemd waar methoden worden uitgevoerd en primitive types in het geheugen worden geplaatst?
 
 **Methoden en primitieve types worden in de Stack geplaatst.**
 
 #Hoe is dit verschillend in een multithreaded application?
 
-**alle methoden die in een thread worden aangeroepen worden bovenop de Stack frames gezet.**
+**all threads krijgen een eigen Stack.**
 
-*bron: https://blog.usejournal.com/java-multithreading-part-1-ec0c42bbead6*
+*bron: https://www.cs.ru.nl/E.Poll/talks/p3_threads.pdf*
 
 
 #Wat is in dit kader een racing condition? Hoe zou je dit kunnen voorkomen?
